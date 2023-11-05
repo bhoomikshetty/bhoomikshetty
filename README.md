@@ -24,4 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhoomikshetty&show_icons=true&locale=en" alt="bhoomikshetty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomikshetty&" alt="bhoomikshetty" /></p>
-[![https://holopin.me/bhoomik_shetty]](https://holopin.io/@bhoomik_shetty)
+[!https://holopin.me/bhoomik_shetty](https://holopin.io/@bhoomik_shetty)
