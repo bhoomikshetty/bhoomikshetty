@@ -13,7 +13,6 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<a href='https://linkedin.com/in/bhoomikshetty'>
   
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 </a>
