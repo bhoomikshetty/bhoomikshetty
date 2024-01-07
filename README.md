@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhoomik Shetty</h1>
-<h3 align="center">A passionate mobile application developer from India</h3>
+<h3 align="center">A Mobile developer📱</h3>
 
 <hr>
 
