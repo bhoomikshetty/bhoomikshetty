@@ -19,9 +19,6 @@
   
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/bhoomikshetty)
 </a>
-<a href='https://twitter.com/shetty_bhoomik'>
-  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/shetty_bhoomik)
-</a>
 </p>
 
 <hr>
